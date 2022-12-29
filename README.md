@@ -25,7 +25,9 @@ print(r)
 ```
 ## Output:
 
-![output](ex3.png)
+![ex3](https://user-images.githubusercontent.com/118704873/209905131-7f97a014-f3bd-4bb0-99ae-f0ec3043e715.png)
+
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
